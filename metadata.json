@@ -1,0 +1,6 @@
+{
+  "name": "Abhijeet Academy",
+  "description": "Learn. Build. Apply. Practical learning for professionals who want to use AI and automation in the real world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
